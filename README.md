@@ -1,4 +1,4 @@
-# array-codes
+# array-codes//lenength oflongest subarray with sum k
 int longestSubarrayWithSumK(vector<int> a, long long k) {
     // Write your code here
     int i,j,l;
